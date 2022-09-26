@@ -1,0 +1,33 @@
+body {background-color: yellow;
+        size: 100vw 100vh;}
+
+div {   width: 600px;
+        height: 500px;
+        
+        margin: 10em auto;
+        
+        }
+/* centrado de img en un div*/
+img {   position: relative;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+           
+}
+
+input {background-color: #578f08;
+        height: 29px;
+        width: 100px;
+        color: greenyellow;
+        position: relative;
+        top: -284px;
+        left: 366px;
+        font-size: 20px;
+        font-style: oblique;
+        font-weight: bolder;
+        text-align: center;
+        border: none;
+        border-radius: 3px;
+
+        }        
+
